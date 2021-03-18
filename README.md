@@ -1,5 +1,5 @@
 - I'm sajjad gozal 
-- I like oding and speaking with computers
+- I like coding and speaking with computers
 - my email address is gozalzadeh.sajjad@Gmail.com
 
 <!---
