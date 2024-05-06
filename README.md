@@ -1,6 +1,3 @@
-- I like coding and speaking with computers
-- my email address is gozalzadeh.sajjad@Gmail.com
-
 # Sajjad Gozalzadeh
 
 ## About Me
